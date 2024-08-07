@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.0",
+    "lucide-react": "latest",
+    "recharts": "2.9.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^4.0.0"
+  },
+  "main": "/index.tsx",
+  "keywords": [],
+  "name": "corpus-calculation-app",
+  "description": "This app can help you to check the corpus amount required during your time of retirement."
+}
